@@ -95,7 +95,7 @@ Sigue estos pasos para clonar el repositorio, instalar las dependencias y constr
 1. Clona el repositorio:
     ```bash
     git clone https://github.com/sntramirez/intergalactic-converter.git
-    cd intergalactic-converter-tectnica
+    cd intergalactic-converter
     ```
 
 2. Configura las dependencias en el archivo `pom.xml`:
